@@ -10,6 +10,7 @@ A collaborative, AI‑assisted text editor built on Next.js (App Router) and sha
 
 - Summary
 - Features
+- Implementation Reference
 - Tech Stack
 - Architecture Overview
 - Environment Variables
@@ -17,13 +18,10 @@ A collaborative, AI‑assisted text editor built on Next.js (App Router) and sha
 - Local Development (Quick Start)
 - Usage Guide
 - Provider Selection
-- API Endpoint Example
 - Deployment (Netlify)
-- Security & Privacy
 - Accessibility & Styling
 - Troubleshooting
-- FAQ
-- License
+
 
 ## Summary
 
@@ -183,10 +181,10 @@ The project supports OpenAI and Groq. Typical strategies:
 
 Adjust `app/api/ai/route.ts` to implement your preferred selection logic.
 
-## Deployment (Vercel)
+## Deployment (Netlify)
 
 - Push this repository to GitHub.
-- Import the repo into Vercel.
+- Import the repo into Netlify.
 - Add the same environment variables in Project Settings → Environment Variables.
 - Deploy.
 
