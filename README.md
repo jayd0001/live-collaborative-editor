@@ -40,6 +40,34 @@ This app provides a focused writing environment that blends rich‑text editing 
 - Scrollable chat panel for longer histories
 - Modern, accessible UI with shadcn/ui and Tailwind CSS v4
 
+## Implementation Reference 
+
+
+1. <img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/5dec1b1d-8b7b-46bf-b6be-e9699073474b" />
+
+
+2. <img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/de3d010b-7212-4f1d-a011-a359fca3f0c0" />
+
+
+3. <img width="1913" height="865" alt="image" src="https://github.com/user-attachments/assets/458aa5d9-7b6d-4373-9981-e6027aff50e2" />
+
+
+4. <img width="1911" height="868" alt="image" src="https://github.com/user-attachments/assets/2fcbf93d-6503-42b9-92c5-60efcd198bd9" />
+
+
+5. <img width="1911" height="868" alt="image" src="https://github.com/user-attachments/assets/cb6eecdb-07ed-41db-87bf-9c8c05ae6948" />
+
+
+6. <img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/b15195eb-6e18-49ad-a41d-e08203fdb1a8" />
+
+
+7. <img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/c7d42bdb-e95c-4d5c-ac28-f752ab6eec6c" />
+
+
+8. <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/a4c86ac1-bb31-4d7e-a3b2-3477d10eb99a" />
+
+
+
 ## Tech Stack
 
 - Framework: Next.js (App Router, React Server Components)
