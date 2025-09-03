@@ -18,7 +18,7 @@ A collaborative, AI‑assisted text editor built on Next.js (App Router) and sha
 - Usage Guide
 - Provider Selection
 - API Endpoint Example
-- Deployment (Vercel)
+- Deployment (Netlify)
 - Security & Privacy
 - Accessibility & Styling
 - Troubleshooting
